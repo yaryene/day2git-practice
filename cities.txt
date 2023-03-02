@@ -4,3 +4,4 @@ Cities in Ethiopia
 2. Dire Dawa
 3. Bahir Dar
 4. Jimma
+5. Adwa
